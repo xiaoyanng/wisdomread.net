@@ -10,6 +10,6 @@ More features coming soon!
 
 ## Links
 
-* GPTsLink: https://www.gptslink.xyz
 * Vote for WisdomRead: https://www.producthunt.com/posts/wisdomread
 * Follow me on Twitter: https://twitter.com/yanng404
+* GPTsLink: https://www.gptslink.xyz
