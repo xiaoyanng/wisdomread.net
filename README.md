@@ -13,3 +13,4 @@ More features coming soon!
 * Vote for WisdomRead: https://www.producthunt.com/posts/wisdomread
 * Follow me on Twitter: https://twitter.com/yanng404
 * GPTsLink: https://www.gptslink.xyz
+* Viggle AI: https://www.viggleai.net
